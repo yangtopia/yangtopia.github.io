@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Blog
 ---
 
 {% if page.url == "/" %}
@@ -41,9 +41,7 @@ title: Home
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
+            {% include postbox.html %}
         {% endfor %}
 
     </div>
