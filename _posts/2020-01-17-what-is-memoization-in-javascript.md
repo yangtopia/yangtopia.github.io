@@ -7,6 +7,8 @@ featured: true
 hidden: false
 ---
 
+>[원문: What is memoization in Javascript](https://medium.com/@mike_wong/what-is-memoization-in-javascript-5c6cdef49ad2)
+
 코딩을 하다보면 같은 값의 계산이 여러번 필요할 때가 있습니다. 한번 계산된 값을 저장하고 재사용하는 쉬운 방법은 뭘까요?
 
 ## 메모이제이션은 최적화 테크닉
