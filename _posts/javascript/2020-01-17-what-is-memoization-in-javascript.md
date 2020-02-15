@@ -3,7 +3,7 @@ layout: post
 title: '자바스크립트 메모이제이션'
 categories: [javascript]
 image: assets/images/cover/photo-1519389950473-47ba0277781c.jpeg
-featured: false
+featured: true
 hidden: false
 ---
 
