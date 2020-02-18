@@ -3,7 +3,7 @@ layout: post
 title: '작업 능률을 올려주는 7가지 Javascript 유틸리티 함수'
 subtitle: 'Detect browser, detect function type, convert hyphen-case to camelCase, delete HTML tag in a string and reverse a string, etc.'
 categories: [javascript]
-image: https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+image: https://images.unsplash.com/photo-1549082984-1323b94df9a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
 featured: true
 hidden: false
 ---
